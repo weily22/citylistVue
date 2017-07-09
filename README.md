@@ -20,13 +20,13 @@
 >
 > 实现效果如图：
 >
-> ![city1](src\assets\city1.JPG)
+> ![city1](https://github.com/weily22/citylistVue/blob/master/src/assets/city1.JPG)
 >
-> ![city2](src\assets\city2.JPG)
+> ![city2](https://github.com/weily22/citylistVue/blob/master/src/assets/city2.JPG)
 >
 > 232
 >
-> 
+>
 
 ## Build Setup
 
