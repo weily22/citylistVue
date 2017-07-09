@@ -14,9 +14,9 @@
 >
 > * scrollTop, offsetTop
 > * class绑定
-> * vue相关知识 ![ ![(src\assets\city2.JPG)(src\assets\city1.JPG)
+> * vue相关知识
 >
-> 细节描述=》 https://weily22.github.io/citylistVue/
+> 细节描述=》 https://weily22.github.io/2017/07/09/vue-citylist/
 >
 > 实现效果如图：
 >
@@ -24,7 +24,6 @@
 >
 > ![city2](https://github.com/weily22/citylistVue/blob/master/src/assets/city2.JPG)
 >
-> 232
 >
 >
 
