@@ -1,0 +1,24 @@
+{
+  "name": "citylistvue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weily22/citylistVue.git"
+  },
+  "keywords": [
+    "vue",
+    "scrollTop",
+    "offsetTop"
+  ],
+  "author": "weily",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weily22/citylistVue/issues"
+  },
+  "homepage": "https://github.com/weily22/citylistVue#readme"
+}
