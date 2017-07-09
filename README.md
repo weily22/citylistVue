@@ -1,6 +1,32 @@
 # citylistvue
 
-> A Vue.js project
+> 这是一个使用vuejs实现的带字母索引的城市列表。
+>
+> 主要功能如下：
+>
+> * 城市拼音首字母按顺序对应ABC
+>
+>
+> * 通过字母点选定位到相应城市，对应字母高亮。
+> * 通过滚动列表，自动定位到相应字母高亮显示。
+>
+> 主要涉及的知识点：
+>
+> * scrollTop, offsetTop
+> * class绑定
+> * vue相关知识
+>
+> 细节描述=》 https://weily22.github.io/citylistVue/
+>
+> 实现效果如图：
+>
+> ![city1](C:\Users\Administrator\Desktop\city1.JPG)
+>
+>  ![city2](C:\Users\Administrator\Desktop\city2.JPG)
+>
+> 232
+>
+> 
 
 ## Build Setup
 
