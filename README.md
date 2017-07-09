@@ -14,15 +14,15 @@
 >
 > * scrollTop, offsetTop
 > * class绑定
-> * vue相关知识
+> * vue相关知识 ![ ![(src\assets\city2.JPG)(src\assets\city1.JPG)
 >
 > 细节描述=》 https://weily22.github.io/citylistVue/
 >
 > 实现效果如图：
 >
-> ![city1](C:\Users\Administrator\Desktop\city1.JPG)
+> ![city1](src\assets\city1.JPG)
 >
->  ![city2](C:\Users\Administrator\Desktop\city2.JPG)
+> ![city2](src\assets\city2.JPG)
 >
 > 232
 >
